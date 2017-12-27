@@ -1,0 +1,14 @@
+{
+  "name": "whosontwitch",
+  "version": "1.0.0",
+  "description": "A command-line tool to see who's streaming on Twitch.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "twitch"
+  ],
+  "author": "Erik Cox",
+  "license": "ISC"
+}
