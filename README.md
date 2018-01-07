@@ -1,6 +1,6 @@
 # Who's on Twitch?
 
-**Who's on Twitch?** is a simple Node command line tool that tells you which streamers are online and what they're playing.
+**Who's on Twitch?** is a simple Node command-line tool that tells you which streamers are online and what they're playing.
 
 ## Requirements
 
